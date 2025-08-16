@@ -1,0 +1,6 @@
+<resources>
+    <!-- Màu HUD và UI -->
+    <color name="hud_white">#FFFFFF</color>
+    <color name="hud_gold">#FFD700</color>
+    <color name="hud_cyan">#00FFFF</color>
+</resources>
